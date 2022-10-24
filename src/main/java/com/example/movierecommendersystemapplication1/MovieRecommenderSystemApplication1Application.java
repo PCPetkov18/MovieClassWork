@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import java.util.Arrays;
 @SpringBootApplication
 
-public class MovieRecommenderSystemApplication1Application {
+public class MovieRecommenderSystemApplication1Application{
 
     public static void main(String[] args) {
 
